@@ -1,2 +1,1 @@
-# open
-my first
+clear 清晰的
